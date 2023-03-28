@@ -1,0 +1,9 @@
+go 1.20
+
+use (
+	./01-funciones
+	./02-estructuras_repetitivas
+	./03-arreglos
+	./04-punteros
+	./05-estructuras_interfaces
+)
