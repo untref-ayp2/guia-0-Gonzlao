@@ -5,4 +5,5 @@ use (
 	./02-estructuras_repetitivas
 	./03-arreglos
 	./04-punteros
+	./05-estructuras_interfaces
 )
